@@ -1,0 +1,14 @@
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\dever01.exe
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\dever01.deps.json
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\dever01.runtimeconfig.json
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\dever01.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\dever01.pdb
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.AssemblyInfoInputs.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.AssemblyInfo.cs
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.csproj.CoreCompileInputs.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\refint\dever01.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.pdb
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\dever01.genruntimeconfig.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\ref\dever01.dll

@@ -1,0 +1,14 @@
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\repetiçao.exe
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\repetiçao.deps.json
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\repetiçao.runtimeconfig.json
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\repetiçao.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\bin\Debug\net7.0\repetiçao.pdb
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.AssemblyInfoInputs.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.AssemblyInfo.cs
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.csproj.CoreCompileInputs.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\refint\repetiçao.dll
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.pdb
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\repetiçao.genruntimeconfig.cache
+C:\Users\igor55009746\Documents\nv\repetiçao\obj\Debug\net7.0\ref\repetiçao.dll
