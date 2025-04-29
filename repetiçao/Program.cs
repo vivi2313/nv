@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        int contador = 0;
+        int contador = 1;
 
         while (contador <= 10)
         {
