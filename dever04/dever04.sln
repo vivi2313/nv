@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever06", "..\dever06\dever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dever07", "..\dever07\dever07.csproj", "{2C327C02-D9C7-4584-81D8-3B330D2DE01D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deverfinal", "..\deverfinal\deverfinal.csproj", "{ABF2CF9E-878B-454B-BA14-3FD1DD1ABBE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2C327C02-D9C7-4584-81D8-3B330D2DE01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C327C02-D9C7-4584-81D8-3B330D2DE01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C327C02-D9C7-4584-81D8-3B330D2DE01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF2CF9E-878B-454B-BA14-3FD1DD1ABBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF2CF9E-878B-454B-BA14-3FD1DD1ABBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF2CF9E-878B-454B-BA14-3FD1DD1ABBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF2CF9E-878B-454B-BA14-3FD1DD1ABBE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
